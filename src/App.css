@@ -1,0 +1,6 @@
+.active {
+    background: red;
+}
+.disabled {
+    cursor: not-allowed;
+}
